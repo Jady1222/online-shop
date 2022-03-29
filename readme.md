@@ -17,7 +17,7 @@ This repository is used as a base for a Stripe API server as part of the final p
     }
     ```
 
-## Deploy your own
+## Deploy your own app
 
 [![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/lwcooper/01-begin-with-stripe-api-server)
 
